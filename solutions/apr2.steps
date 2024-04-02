@@ -1,0 +1,4 @@
+cat apr2 | base64 -d | gunzip -
+put braille text into cyber chef
+
+use apr2.go to decode morse to text
